@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiplicationTrainer</string>
+    <string-array name="levels_array">
+        <item>Легкий (1-10)</item>
+        <item>Средний (1-15)</item>
+        <item>Сложный (1-20)</item>
+    </string-array>
+</resources>
